@@ -7,7 +7,7 @@
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Kdotseth7&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=k_seth" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=k_seth" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdotseth7" />
 

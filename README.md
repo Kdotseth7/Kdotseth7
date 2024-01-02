@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushagra Seth</h1>
-<h2 align="center">Masters, Natural Language Processing(NLP) @ UC Santa Cruz</h2>
-<h3>Actively seeking Data Science and Machine Learning Intern Opportunities for Summer 2023</h3>
+<h2 align="center">Recent CSE Grad from UCSC | Seeking Software Engineer/Machine Learning roles | Ex-Cvent</h2>
+<h3>Actively seeking Software Engineer and Machine Learning roles</h3>
 
 - 📫 Reach me at **kushagraseth.1996@gmail.com**
 - 💼 Potfolio: https://kdotseth7.github.io/portfolio/

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushagra Seth</h1>
-<h2 align="center">Recent CSE Grad from UCSC | Ex-Cvent</h2>
+<h2 align="center">Masters of Science, CSE @ UCSC | Ex-Cvent</h2>
 <h3>Actively seeking Software Engineer and Machine Learning roles</h3>
 
 - 📫 Reach me at **kushagraseth.1996@gmail.com**

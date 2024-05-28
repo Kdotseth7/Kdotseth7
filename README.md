@@ -12,5 +12,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdotseth7" />
 
-<h3 align="center" &#127911; **Currently Listening on Spotify**</h3>
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1273458533&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+<!---<h3 align="center" &#127911; **Currently Listening on Spotify**</h3>-->
+<!---<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1273458533&cover_image=true&theme=default&show_offline=false&background_color=121212" />-->
